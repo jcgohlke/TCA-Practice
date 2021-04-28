@@ -9,11 +9,7 @@ import SwiftUI
 
 struct UsingBindingsView: View {
   var body: some View {
-    Form {
-      Section(header: Text("Using Bindings")) {
-        
-      }
-    }
+    Text("Using bindings")
   }
 }
 

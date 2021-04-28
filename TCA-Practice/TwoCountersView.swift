@@ -9,21 +9,7 @@ import SwiftUI
 
 struct TwoCountersView: View {
   var body: some View {
-    Form {
-      Section(header: Text("Two Counters")) {
-        HStack {
-          Text("Counter 1")
-          
-          Spacer()
-        }
-        
-        HStack {
-          Text("Counter 2")
-          
-          Spacer()
-        }
-      }
-    }
+    Text("Two Counters")
   }
 }
 
