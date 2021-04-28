@@ -3,6 +3,7 @@
 //  TCA-Practice
 //
 //  Created by Joben Gohlke on 4/27/21.
+//  Derived from Case Studies in Pointfree's TCA GitHub repo: https://github.com/pointfreeco/swift-composable-architecture/tree/main/Examples/CaseStudies/SwiftUICaseStudies
 //
 
 import ComposableArchitecture
