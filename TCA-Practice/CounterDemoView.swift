@@ -18,6 +18,7 @@ struct CounterDemoView: View {
     Form {
       Section(header: Text("A simple counter")) {
         CounterView()
+          .buttonStyle(BorderlessButtonStyle())
       }
     }
   }
